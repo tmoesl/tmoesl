@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:thomas.moesl@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Medium](https://img.shields.io/badge/-Medium-white?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@thomas.moesl)](https://medium.com/@thomas.moesl)
-[![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat&logo=Google-Drive&logoColor=white&link=https://docs.google.com/document/d/1XfKpyCrqpsv31Nai77RbmOdESOcV6lt3GzWqjHwNcFM/edit?usp=drive_link)](https://docs.google.com/document/d/1XfKpyCrqpsv31Nai77RbmOdESOcV6lt3GzWqjHwNcFM/edit?usp=drive_link)
+[![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat&logo=Google-Drive&logoColor=white&link=https://docs.google.com/document/d/1XfKpyCrqpsv31Nai77RbmOdESOcV6lt3GzWqjHwNcFM/edit?usp=drive_link)](https://drive.google.com/file/d/1nrh-fktv5BT8k1snQHYRgVMlmMgDGP9r/view?usp=drive_link)
 
 
 ### Key Facts
@@ -16,7 +16,7 @@
 
 🧠 Worked at UC Berkeley and Max Planck Institute
 
-💡 MIT and Google Certificates in Data Science and ML
+💡 MIT and Google Certificates in Data Science and Machine Learning
 
 🤝 Open for professional collaboration
 
