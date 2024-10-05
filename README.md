@@ -36,8 +36,8 @@
 
 - **Programming Languages**:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 
 - **Data Preprocessing**:
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
