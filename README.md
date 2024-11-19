@@ -16,7 +16,9 @@
 
 🧠 Worked at UC Berkeley and Max Planck Institute
 
-💡 MIT and Google Certificates in Data Science and Machine Learning
+💡 MIT Professional Development in Data Science and Machine Learning
+
+💡 Google and HavardX Certificates in Data Analytics and SQL Database Management 
 
 🤝 Open for professional collaboration
 
