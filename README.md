@@ -18,7 +18,7 @@
 
 💡 MIT Professional Development in Data Science and Machine Learning
 
-💡 Google and HavardX Certificates in Data Analytics and SQL Database Management 
+💡 Google and HarvardX Certificates in Data Analytics and SQL Database Management 
 
 🤝 Open for professional collaboration
 
