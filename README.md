@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:thomas.moesl@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.datascienceportfol.io/thomasmoesl)](https://www.datascienceportfol.io/thomasmoesl)
 [![Medium](https://img.shields.io/badge/-Medium-white?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@thomas.moesl)](https://medium.com/@thomas.moesl)
-[![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1I4gdtVqzM1k2nsAyQF_VM3OtwFc6JL2o/view?usp=drive_link)](https://drive.google.com/file/d/1I4gdtVqzM1k2nsAyQF_VM3OtwFc6JL2o/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1Xu9QXBlsUZR6MnyJ8VpwdwZvsKQCKgGn/view?usp=sharing)](https://drive.google.com/file/d/1Xu9QXBlsUZR6MnyJ8VpwdwZvsKQCKgGn/view?usp=sharing)
 
 
 ### Key Facts
