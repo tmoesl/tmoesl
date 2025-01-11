@@ -18,7 +18,9 @@
 
 💡 MIT Professional Development in Data Science and Machine Learning
 
-💡 Google and HarvardX Certificates in Data Analytics and SQL Database Management 
+💡 Google and HarvardX Certificates in Data Analytics and SQL Database Management
+
+📈 Tableau Desktop Specialist
 
 🤝 Open for professional collaboration
 
