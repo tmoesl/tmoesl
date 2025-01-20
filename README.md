@@ -22,7 +22,7 @@
 
 📈 Tableau Desktop Specialist
 
-🤝 Open for professional collaboration
+🤝 Open for Professional Collaboration
 
 
 ### Badges
