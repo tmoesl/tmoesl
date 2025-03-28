@@ -28,8 +28,8 @@ I am a Data Scientist with 6+ years of experience leading technical projects acr
 
 
 ### Badges
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmoesl%2Ftmoesl&count_bg=%23151515&title_bg=%23555555&icon=github.svg&icon_color=%2379FF97&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmoesl%2Ftmoesl&count_bg=%23151515&title_bg=%23555555&icon=github.svg&icon_color=%2379FF97&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) --> 
+![Profile Views](https://komarev.com/ghpvc/?username=tmoesl&color=41A65A&label=Profile+Views&base=990&abbreviated=True)
 [![Github](https://img.shields.io/github/followers/tmoesl?label=Follow&style=social)](https://github.com/tmoesl)
 
 <p align="left">
