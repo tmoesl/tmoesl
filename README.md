@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:thomas.moesl@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.datascienceportfol.io/thomasmoesl)](https://www.datascienceportfol.io/thomasmoesl)
 [![Medium](https://img.shields.io/badge/-Medium-white?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@thomas.moesl)](https://medium.com/@thomas.moesl)
-[![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1OnT96Lif6aPbm08SAoixIF2fdR3WxDq9/view?usp=sharing)](https://drive.google.com/file/d/1OnT96Lif6aPbm08SAoixIF2fdR3WxDq9/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/14TISTNmb_LVoOaho8cWdH9bAkDlGEb33/view?usp=drive_link)](https://drive.google.com/file/d/14TISTNmb_LVoOaho8cWdH9bAkDlGEb33/view?usp=drive_link)
 
 I am a Data Scientist with 6+ years of experience leading technical projects across industries, leveraging data analytics, statistical modelling, and machine learning to drive business growth. Proficient in Python, SQL, Tableau, AWS, and AI/ML frameworks. Strong academic background in physics, with research experience at UC Berkeley and the Max Planck Institute.
 
