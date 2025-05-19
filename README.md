@@ -12,7 +12,7 @@ I am a Data Scientist with 7+ years of experience leading technical projects acr
 ### Key Facts
 🌏 Based in Sydney, Australia
 
-🚀 Data Scientist and Lead Engineer with 6+ years experience
+🚀 Data Scientist and Lead Engineer with 7+ years of experience
 
 📚 Studied Technical Physics and Advanced Materials Science
 
