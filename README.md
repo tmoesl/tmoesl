@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-white?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@thomas.moesl)](https://medium.com/@thomas.moesl)
 [![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/14TISTNmb_LVoOaho8cWdH9bAkDlGEb33/view?usp=drive_link)](https://drive.google.com/file/d/14TISTNmb_LVoOaho8cWdH9bAkDlGEb33/view?usp=drive_link)
 
-I am a Data Scientist with 7+ years of experience leading technical projects across industries, leveraging data analytics, statistical modelling, and machine learning to drive business growth. Proficient in Python, SQL, Tableau, AWS, and AI/ML frameworks. Strong academic background in physics, with research experience at UC Berkeley and the Max Planck Institute.
+I am a Data Scientist \ Engineer with 7+ years of experience leading technical projects across industries, leveraging data analytics, statistical modelling, and machine learning to drive business growth. Proficient in Python, SQL, Tableau, AWS, and AI/ML frameworks. Strong academic background in physics, with research experience at UC Berkeley and the Max Planck Institute.
 
 
 ### Key Facts
@@ -14,7 +14,7 @@ I am a Data Scientist with 7+ years of experience leading technical projects acr
 
 🚀 Data Scientist and Lead Engineer with 7+ years of experience
 
-📚 Studied Technical Physics and Advanced Materials Science
+📚 Studied Technical Physics and Advanced Science
 
 🧠 Worked at UC Berkeley and Max Planck Institute
 
